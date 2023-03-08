@@ -23,5 +23,14 @@ This function allows users to create a new bank account. It prompts the user for
 main()
 This is the main function of the program. It creates an empty list of accounts and enters a loop that prompts the user to select an action (create account, deposit, withdraw, check balance, or exit). Depending on the user's choice, it either calls the appropriate function or prints an error message if the account number is not found.
 
+# How to use
+Enter any options from 1-5 in the terminal of the IDE.
+When you enter 1, the screen will pop up and you will have to create an account.
+When you enter 2, you will be asked to enter the account number, if the account number exists you will have to enter the amount to deposit.
+When you enter 3, you will enter the amount to withdraw.
+When you enter 4, the balance will be displayed.
+When you enter 5, the loop will terminate.
+If you enter any number other than from 1 to 5, you will get an error.
+
 # Running the Program
 To run the program, simply run the main() function. This will start the program and allow the user to interact with the bank account management system.
