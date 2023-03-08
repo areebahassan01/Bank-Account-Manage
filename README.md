@@ -11,7 +11,6 @@ balance - The current balance of the account (default: 0)
 
 The class has the following methods:
 
-__init__(self, account_number, account_holder, balance=0) - Constructor method that initializes the attributes of the class
 deposit(self, amount) - Method for depositing money into the account
 withdraw(self, amount) - Method for withdrawing money from the account
 display_balance(self) - Method for displaying the current balance of the account
