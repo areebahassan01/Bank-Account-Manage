@@ -33,4 +33,4 @@ When you enter 5, the loop will terminate.
 If you enter any number other than from 1 to 5, you will get an error.
 
 # Running the Program
-To run the program, simply run the main() function. This will start the program and allow the user to interact with the bank account management system.
+To run the program,  run the main() function. Type bankaccount.py in the terminal of the IDE. This will start the program and allow the user to interact with the bank account management system.
